@@ -35,9 +35,9 @@ body{
     background-position: top center;
     background-size: cover;
 }
-
 #container{
-    width: 360px;
+    width: 100%;
+    max-width: 580px;
     margin: auto;
     margin-top: 8px;
 }
